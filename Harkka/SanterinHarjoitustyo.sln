@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarkkaKansio", "HarkkaKansio.csproj", "{5ABAF41B-A7AB-4DB5-8286-86724767E5A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FarseerHarkka", "FarseerHarkka\FarseerHarkka.csproj", "{4D92C03E-2593-461B-ABD5-665023C4C97B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ABAF41B-A7AB-4DB5-8286-86724767E5A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ABAF41B-A7AB-4DB5-8286-86724767E5A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ABAF41B-A7AB-4DB5-8286-86724767E5A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ABAF41B-A7AB-4DB5-8286-86724767E5A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D92C03E-2593-461B-ABD5-665023C4C97B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D92C03E-2593-461B-ABD5-665023C4C97B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D92C03E-2593-461B-ABD5-665023C4C97B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D92C03E-2593-461B-ABD5-665023C4C97B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF588CF6-222E-4F88-AC3C-40ED94B304FD}
+	EndGlobalSection
+EndGlobal
